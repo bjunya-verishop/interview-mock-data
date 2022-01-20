@@ -1,0 +1,166 @@
+[
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda"
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla"
+  },
+  {
+    "code": "AW",
+    "name": "Aruba"
+  },
+  {
+    "code": "BB",
+    "name": "Barbados"
+  },
+  {
+    "code": "BL",
+    "name": "Saint Barthélemy"
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda"
+  },
+  {
+    "code": "BQ",
+    "name": "Bonaire"
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas"
+  },
+  {
+    "code": "BZ",
+    "name": "Belize"
+  },
+  {
+    "code": "CA",
+    "name": "Canada"
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica"
+  },
+  {
+    "code": "CU",
+    "name": "Cuba"
+  },
+  {
+    "code": "CW",
+    "name": "Curacao"
+  },
+  {
+    "code": "DM",
+    "name": "Dominica"
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic"
+  },
+  {
+    "code": "GD",
+    "name": "Grenada"
+  },
+  {
+    "code": "GL",
+    "name": "Greenland"
+  },
+  {
+    "code": "GP",
+    "name": "Guadeloupe"
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala"
+  },
+  {
+    "code": "HN",
+    "name": "Honduras"
+  },
+  {
+    "code": "HT",
+    "name": "Haiti"
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica"
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis"
+  },
+  {
+    "code": "KY",
+    "name": "Cayman Islands"
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia"
+  },
+  {
+    "code": "MF",
+    "name": "Saint Martin"
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique"
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat"
+  },
+  {
+    "code": "MX",
+    "name": "Mexico"
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua"
+  },
+  {
+    "code": "PA",
+    "name": "Panama"
+  },
+  {
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon"
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico"
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador"
+  },
+  {
+    "code": "SX",
+    "name": "Sint Maarten"
+  },
+  {
+    "code": "TC",
+    "name": "Turks and Caicos Islands"
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago"
+  },
+  {
+    "code": "US",
+    "name": "United States"
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "code": "VG",
+    "name": "British Virgin Islands"
+  },
+  {
+    "code": "VI",
+    "name": "U.S. Virgin Islands"
+  }
+]
